@@ -1,3 +1,11 @@
+---
+name: Gruppenphase
+about: Nutzt dieses template um tips für die Gruppenphase abzugeben
+title: 'Gruppenphase'
+labels: ''
+assignees: 'ratnanil'
+---
+
 Gruppe 1:
   Spiel 1:
     datum: 11.06.2021 00:00:00
