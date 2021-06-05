@@ -1,8 +1,8 @@
 ---
-name: Gruppenphase (GruppeGruppe 5)
-about: Tips für Gruppenphase (GruppeGruppe 5)
-title: 'Tips Gruppenphase (GruppeGruppe 5)'
-labels: 'Gruppenphase (GruppeGruppe 5)'
+name: Gruppenphase (Gruppe 5)
+about: Tips für Gruppenphase (Gruppe 5)
+title: 'Tips Gruppenphase (Gruppe 5)'
+labels: 'Gruppenphase (Gruppe 5)'
 assignees: 'ratnanil'
 ---
 
