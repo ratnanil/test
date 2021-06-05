@@ -2,7 +2,7 @@
 name: Gruppenphase (Gruppe 4)
 about: Tips für Gruppenphase (Gruppe 4)
 title: 'Tips Gruppenphase (Gruppe 4)'
-labels: 'Gruppenphase (Gruppe 4)'
+labels: 'Gruppe Gruppe 4'
 assignees: 'ratnanil'
 ---
 
