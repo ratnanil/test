@@ -2,7 +2,7 @@
 name: Gruppenphase (Gruppe 6)
 about: Tips für Gruppenphase (Gruppe 6)
 title: 'Tips Gruppenphase (Gruppe 6)'
-labels: 'Gruppe Gruppe 6'
+labels: 'Gruppe 6'
 assignees: 'ratnanil'
 ---
 
